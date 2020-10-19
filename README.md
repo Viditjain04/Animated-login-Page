@@ -1,6 +1,5 @@
-# music_player
+Animated Logon Page using Tween and Interval(delayed animation) in flutter.
 
-A new Flutter application.
 
 ## Getting Started
 
